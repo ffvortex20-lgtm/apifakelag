@@ -2,7 +2,7 @@
   "fake_lag": {
     "ativo": true,
     "duracao_ms": 1500,
-    "intensidade_pacotes": 50,
-    "mensagem_status": "Vortex API: Conectado com sucesso!"
+    "intensidade_pacotes": 60,
+    "mensagem_status": "Vortex API: Sincronizado!"
   }
 }
